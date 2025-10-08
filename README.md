@@ -7,7 +7,7 @@ Hi 👋 My name is suphakorn
                   </p>
                   
                 
-                <p align="left"> <a href="https://www.github.com/Korn5671" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-                  
+             
 <img
 src="https://medibang.com/picture/q32309200429316910025245669/" width="100" height="100" />
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
